@@ -1,0 +1,32 @@
+[
+	{
+		"id": 0,
+		"pergunta": "O que é um clube 1%?",
+		"resposta": "Só respeitas as leis do clube",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 1,
+		"pergunta": "Qual é a função do tesoureiro?",
+		"resposta": "Grana",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 2,
+		"pergunta": "Cite 3 cargos do conselho de um moto clube.",
+		"resposta": "SAA, President, Vice-president",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 3,
+		"pergunta": "Qual é a data de fundação do clube?",
+		"resposta": "Eitakkkkkk",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 4,
+		"pergunta": "Quem é Jansen?",
+		"resposta": "DEUS",
+		"dificuldade": "dificil"
+	},
+]

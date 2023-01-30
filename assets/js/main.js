@@ -45,6 +45,6 @@ jQuery( document ).ready( function( $ ) {
 				alert( "Mano?? Preenche isso aí corretamente!" );
 			}
 		});
-	}, 200);
+	}, 500);
 
 });

@@ -42,20 +42,28 @@
 	<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
 
 	<script>
-
-		const icons = "data.json";
-
-		// Cria todos os ícones
-		$.getJSON( icons, function( json ) {
-			let icons_json = json;
-			icons_json.forEach( function( item ) {
-				console.log( item );
+		jQuery( document ).ready( function( $ ) {
+			const data_file = "data.json"; // Arquivo .json
+			$.ajax({
+				url: data_file,
+				dataType: "JSON",
+				success: function( response ) {
+					json_data = response;
+					console.log(json_data);
+					// if ( Array.isArray( json_icones ) && json_icones.length > 0 ) {
+					// 	sort_categories_and_icons( categoria );
+					// } else {
+					// 	alert( "Não é um arquivo JSON válido." );
+					// }
+				}
+			}).fail( function( jqXHR, textStatus, error ) {
+				alert( jqXHR.responseText );
 			});
-		console.log( "error" );
 		});
+		console.log( "hey" );
+	</script>
 
-
-
+	<script>
 		const data_json = [
 			{
 				"id": 0,

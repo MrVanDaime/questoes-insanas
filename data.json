@@ -28,5 +28,41 @@
 		"pergunta": "Quem é Jansen?",
 		"resposta": "DEUS",
 		"dificuldade": "dificil"
-	}
+	},
+	{
+		"id": 5,
+		"pergunta": "Em um rolê, qual é a formação que ofereçe menos proteção para os membros?",
+		"resposta": "Formação lápis",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 6,
+		"pergunta": "Qual é a função do SAA?",
+		"resposta": "Manter a ordem no clube, se necessário aplicando punições em membros indiferente do patch.",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 7,
+		"pergunta": "Alguém do clube na sua frente tem o pneu furado, e perdeu o controle da moto, o que você deve fazer?",
+		"resposta": "Permanecer com ele até que o problema seja resolvido.",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 8,
+		"pergunta": "Cite 5 regras do clube em encontros",
+		"resposta": "Ferrou kkk",
+		"dificuldade": "dificil"
+	},
+	{
+		"id": 9,
+		"pergunta": "O que é a AMS?",
+		"resposta": "Bom, nesse momento é só os Insanos",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 10,
+		"pergunta": "O que é um hang around?",
+		"resposta": "É aquele cara que não é um membro nem representa o clube, nem ele nem o clube têm direitos um sobre o outro. Este está no período de conhecer onde está, se é isso mesmo que ele quer.",
+		"dificuldade": "medio"
+	},
 ]

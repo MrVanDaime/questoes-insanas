@@ -7,15 +7,15 @@ jQuery( document ).ready( function( $ ) {
 		json_data = json;
 	})
 		.done( function(){
+			// Valor mínimo e máximo do campo de quantidade de perguntas
+			$( "#qtd_perguntas" ).attr( "min", 1 );
 			$( "#qtd_perguntas" ).attr( "max", json_data.length );
 		});
 
 	const btn_gerar = $( "#btn_gerar" );
 	const accordion = $( "#accordionMain" );
 
-	// Valor mínimo e máximo do campo de quantidade de perguntas
-	$( "#qtd_perguntas" ).attr( "min", 1 );
-
+	// Função principal para gerar as perguntas
 	btn_gerar.on( "click", function(){
 		let qtd_perguntas = $( "#qtd_perguntas" ).val();
 

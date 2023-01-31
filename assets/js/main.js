@@ -2,6 +2,8 @@ jQuery( document ).ready( function( $ ) {
 	const json_file = "data.json";
 
 	let json_data = [];
+	localStorage.json_data = '';
+
 	// Guarda o resultado em localStorage
 	if ( localStorage.json_data ) {
 		$.getJSON( json_file, function( json ) {

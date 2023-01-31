@@ -69,6 +69,12 @@
 		"id": 11,
 		"pergunta": "Que é o support de um clube?",
 		"resposta": "É aquele que",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 12,
+		"pergunta": "Cite 5 membros do conselho.",
+		"resposta": "Amgi",
 		"dificuldade": "medio"
 	}
 ]

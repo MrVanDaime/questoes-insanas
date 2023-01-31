@@ -1,25 +1,20 @@
 jQuery( document ).ready( function( $ ) {
 	const json_file = "data.json";
 
+	// Busca os dados
 	let json_data = [];
-	localStorage.json_data = '';
-
-	// Guarda o resultado em localStorage
-	if ( localStorage.json_data ) {
-		$.getJSON( json_file, function( json ) {
-			localStorage.json_data = JSON.stringify( json );
+	$.getJSON( json_file, function( json ) {
+		json_data = json;
+	})
+		.done( function(){
+			$( "#qtd_perguntas" ).attr( "max", json_data.length );
 		});
-	}
-
-	// Transforma em array
-	json_data = JSON.parse( localStorage.json_data ); 
 
 	const btn_gerar = $( "#btn_gerar" );
 	const accordion = $( "#accordionMain" );
 
 	// Valor mínimo e máximo do campo de quantidade de perguntas
 	$( "#qtd_perguntas" ).attr( "min", 1 );
-	$( "#qtd_perguntas" ).attr( "max", json_data.length );
 
 	btn_gerar.on( "click", function(){
 		let qtd_perguntas = $( "#qtd_perguntas" ).val();

@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"pergunta": "O que é um clube 1%?",
-		"resposta": "Só respeitas as leis do clube",
+		"resposta": "São que apenas respeitam as leis do clube",
 		"dificuldade": "facil"
 	},
 	{
@@ -14,7 +14,7 @@
 	{
 		"id": 2,
 		"pergunta": "Cite 3 cargos do conselho de um moto clube.",
-		"resposta": "SAA, President, Vice-president",
+		"resposta": "President, Vice-president, Sergeant-at-Arms, Secretary, Treasurer, Road Captain",
 		"dificuldade": "facil"
 	},
 	{
@@ -25,8 +25,8 @@
 	},
 	{
 		"id": 4,
-		"pergunta": "Quem é Jansen?",
-		"resposta": "DEUS",
+		"pergunta": "Quem é Jasen?",
+		"resposta": "Quem é? Hein?",
 		"dificuldade": "dificil"
 	},
 	{
@@ -38,8 +38,8 @@
 	{
 		"id": 6,
 		"pergunta": "Qual é a função do SAA?",
-		"resposta": "Manter a ordem no clube, se necessário aplicando punições em membros indiferente do patch.",
-		"dificuldade": "medio"
+		"resposta": "Manter a ordem no clube, garante que o estatuto e regras do clube não sejam violadas.",
+		"dificuldade": "facil"
 	},
 	{
 		"id": 7,
@@ -67,14 +67,44 @@
 	},
 	{
 		"id": 11,
-		"pergunta": "Que é o support de um clube?",
+		"pergunta": "Quem é o support de um clube?",
 		"resposta": "É aquele que",
 		"dificuldade": "facil"
 	},
 	{
 		"id": 12,
-		"pergunta": "Cite 5 membros do conselho.",
-		"resposta": "Amgi",
+		"pergunta": "Cite 5 membros do conselho do clube",
+		"resposta": "@Amigles",
 		"dificuldade": "medio"
+	},
+	{
+		"id": 13,
+		"pergunta": "O que é irmandade?",
+		"resposta": "",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 14,
+		"pergunta": "O que significa o 18?",
+		"resposta": "",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 15,
+		"pergunta": "O que é I.S.S.I?",
+		"resposta": "Insanos Sempre Sempre Insanos",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 16,
+		"pergunta": "Quais são os direitos de um prospect?",
+		"resposta": "NenhumK",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 17,
+		"pergunta": "Em um encontro, onde os hang arounds, supports e prospects devem estacionar suas motos?",
+		"resposta": "De frente para os membros full patch",
+		"dificuldade": "facil"
 	}
 ]

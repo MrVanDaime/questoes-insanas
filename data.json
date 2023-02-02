@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"pergunta": "O que é um clube 1%?",
-		"resposta": "São que apenas respeitam as leis do clube",
+		"resposta": "É geralmente usado para descrever clubes foras da lei, já que os outros 99% são cumpridores da lei.",
 		"dificuldade": "facil"
 	},
 	{
@@ -19,14 +19,14 @@
 	},
 	{
 		"id": 3,
-		"pergunta": "Qual é a data de fundação do clube?",
+		"pergunta": "Qual é a data de fundação do clube na CVR?",
 		"resposta": "Eitakkkkkk",
 		"dificuldade": "medio"
 	},
 	{
 		"id": 4,
 		"pergunta": "Quem é Jasen?",
-		"resposta": "Quem é? Hein?",
+		"resposta": "Quem? Hein?",
 		"dificuldade": "dificil"
 	},
 	{
@@ -55,8 +55,8 @@
 	},
 	{
 		"id": 9,
-		"pergunta": "O que é a AMS?",
-		"resposta": "Bom, nesse momento é só os Insanos",
+		"pergunta": "Qual é o significado da sigla AMA?",
+		"resposta": "American Motorcyclist Association",
 		"dificuldade": "medio"
 	},
 	{
@@ -68,7 +68,7 @@
 	{
 		"id": 11,
 		"pergunta": "Quem é o support de um clube?",
-		"resposta": "É aquele que",
+		"resposta": "É aquele que...",
 		"dificuldade": "facil"
 	},
 	{
@@ -85,8 +85,8 @@
 	},
 	{
 		"id": 14,
-		"pergunta": "O que significa o 18?",
-		"resposta": "-",
+		"pergunta": "O que significa o 18 do Forte?",
+		"resposta": "Foi um movimento político-militar, considerado a primeira revolta do movimento tenentista. Teve início em 5 de julho de 1922 e terminou no dia seguinte no Rio de Janeiro.<br/>O nome da revolta está associado ao número de pessoas envovidas no confronto, as quais resistiram até o fim, a saber: 17 militares e 1 civil.",
 		"dificuldade": "medio"
 	},
 	{

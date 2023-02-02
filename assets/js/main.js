@@ -43,7 +43,7 @@ jQuery( document ).ready( function( $ ) {
 					arr_selecionados.push( json_data[index] );
 
 					html += '<div class="accordion-item bg-'+dificuldade+'"><h2 class="accordion-header" id="heading'+json_data[index]["id"]+'"><span class="accordion-button collapsed bg-'+dificuldade+'" type="button" data-bs-toggle="collapse" data-bs-target="#collapse'+json_data[index]["id"]+'" aria-expanded="false" aria-controls="collapse'+json_data[index]["id"]+'"><b>'+ json_data[index]["pergunta"] +'</b></span></h2>'+
-						'<div id="collapse'+json_data[index]["id"]+'" class="accordion-collapse collapse" aria-labelledby="heading'+json_data[index]["pergunta"]+'" data-bs-parent="#accordionMain"><div class="accordion-body">'+json_data[index]["resposta"]+'</div></div></div>';
+						'<div id="collapse'+json_data[index]["id"]+'" class="accordion-collapse collapse" aria-labelledby="heading'+json_data[index]["id"]+'" data-bs-parent="#accordionMain"><div class="accordion-body">'+json_data[index]["resposta"]+'</div></div></div>';
 				}
 			}
 			accordion.html( '' );

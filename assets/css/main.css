@@ -1,0 +1,14 @@
+* { outline: 0!important; }
+body > div { min-height: 100vh; }
+.form-control#qtd_perguntas { background-color: #495057; }
+.accordion-button, .accordion-body {color:#fff!important;}
+.accordion-button:focus { border:none; box-shadow:none; }
+.accordion-button::after { filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(190%) contrast(100%); }
+
+.bg-danger {
+	background-color: #c72827!important;
+}
+
+.bg-warning {
+	background-color: #ffa001!important;
+}

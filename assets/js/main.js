@@ -6,7 +6,7 @@ jQuery( document ).ready( function( $ ) {
 	$.getJSON( json_file, function( json ) {
 		json_data = json;
 	})
-		.done( function(){
+		.then( function(){
 			// Valor mínimo e máximo do campo de quantidade de perguntas
 			$( "#qtd_perguntas" ).attr( "min", 1 );
 			$( "#qtd_perguntas" ).attr( "max", json_data.length );

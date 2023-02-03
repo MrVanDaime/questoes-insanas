@@ -4,6 +4,7 @@ body > div { min-height: 100vh; }
 .accordion-button, .accordion-body {color:#fff!important;}
 .accordion-button:focus { border:none; box-shadow:none; }
 .accordion-button::after { filter: invert(0%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(190%) contrast(100%); }
+.accordion-button:not(.collapsed){box-shadow: none!important;}
 
 .bg-danger {
 	background-color: #c72827!important;

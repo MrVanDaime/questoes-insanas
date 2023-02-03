@@ -12,3 +12,15 @@ body > div { min-height: 100vh; }
 .bg-warning {
 	background-color: #ffa001!important;
 }
+
+.bg-success .accordion-body {
+	background-color: #116840;
+}
+
+.bg-danger .accordion-body {
+	background-color: #a92222!important;
+}
+
+.bg-warning .accordion-body {
+	background-color: #cd8000!important;
+}

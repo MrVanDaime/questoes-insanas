@@ -2,13 +2,13 @@
 	{
 		"id": 0,
 		"pergunta": "O que é um clube 1%?",
-		"resposta": "É geralmente usado para descrever clubes foras da lei, já que os outros 99% são cumpridores da lei.",
+		"resposta": "É geralmente usado para descrever moto clubes foras da lei, já que os outros 99% são cumpridores dela.",
 		"dificuldade": "facil"
 	},
 	{
 		"id": 1,
 		"pergunta": "Qual é a função do tesoureiro?",
-		"resposta": "Grana",
+		"resposta": "O tesoureiro mantém todos os fundos do clube, como contas a pagar e a receber.",
 		"dificuldade": "facil"
 	},
 	{
@@ -19,8 +19,8 @@
 	},
 	{
 		"id": 3,
-		"pergunta": "Qual é a data de fundação do clube na CVR?",
-		"resposta": "Eitakkkkkk",
+		"pergunta": "Qual é a data oficial da fundação do clube na CVR?",
+		"resposta": "14 de fevereiro de 2021",
 		"dificuldade": "medio"
 	},
 	{
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 5,
-		"pergunta": "Em um rolê, qual é a formação que ofereçe menos proteção para os membros?",
+		"pergunta": "Em um rolê, qual é a formação que menos ofereçe proteção aos membros?",
 		"resposta": "Formação lápis",
 		"dificuldade": "facil"
 	},
@@ -43,13 +43,13 @@
 	},
 	{
 		"id": 7,
-		"pergunta": "Alguém do clube na sua frente tem o pneu furado, e perdeu o controle da moto, o que você deve fazer?",
+		"pergunta": "Alguém do clube na sua frente tem o pneu furado e perdeu o controle da moto, o que você deve fazer?",
 		"resposta": "Permanecer com ele até que o problema seja resolvido.",
 		"dificuldade": "facil"
 	},
 	{
 		"id": 8,
-		"pergunta": "Cite 5 regras do clube em encontros",
+		"pergunta": "Cite 5 regras durante rolês e eventos do clube",
 		"resposta": "Ferrou kkk",
 		"dificuldade": "dificil"
 	},
@@ -62,13 +62,13 @@
 	{
 		"id": 10,
 		"pergunta": "O que é um hang around?",
-		"resposta": "É aquele cara que não é um membro nem representa o clube, nem ele nem o clube têm direitos um sobre o outro. Este está no período de conhecer onde está, se é isso mesmo que ele quer.",
+		"resposta": "É aquele que não é um membro nem representa o clube, nem ele nem o clube têm direitos sobre um ao outro. Este está no período de conhecer onde está, se é isso mesmo que ele quer.",
 		"dificuldade": "medio"
 	},
 	{
 		"id": 11,
-		"pergunta": "Quem é o support de um clube?",
-		"resposta": "É aquele que...",
+		"pergunta": "Quem é o suporte de um clube?",
+		"resposta": "É aquele que está no degrau mais baixo do clube, deve estar criando amizades e conhecendo o cotidiano do clube. Está diariamente sendo testado e observado para que ao fim desse período, esteja apto a se tornar um prospect.",
 		"dificuldade": "facil"
 	},
 	{
@@ -80,7 +80,7 @@
 	{
 		"id": 13,
 		"pergunta": "O que é irmandade?",
-		"resposta": "-",
+		"resposta": "É um grupo de pessoas com gostos iguais ou nem tanto, mas considerados como irmãos por afinidade, onde tanto eu, como irmão, quanto eles, como irmãos, estamos apoiando um ao outro em diversas situações.",
 		"dificuldade": "medio"
 	},
 	{
@@ -98,13 +98,25 @@
 	{
 		"id": 16,
 		"pergunta": "Quais são os direitos de um prospect?",
-		"resposta": "NenhumK",
+		"resposta": "Direito de manter a boca fechada e de não discutir assuntos do clube. É dever do prospect conhecer membros, ou seja, seus irmãos e suas ocupações.<br/>",
 		"dificuldade": "facil"
 	},
 	{
 		"id": 17,
-		"pergunta": "Em um encontro, onde os hang arounds, supports e prospects devem estacionar suas motos?",
+		"pergunta": "Em um encontro, onde os hang arounds, suportes e prospects devem estacionar suas motos?",
 		"resposta": "De frente para os membros full patch",
 		"dificuldade": "facil"
+	},
+	{
+		"id": 18,
+		"pergunta": "Com qual profissão suportes e prospects devem estar trabalhando em rolês e encontros?",
+		"resposta": "Mecânico",
+		"dificuldade": "facil"
+	},
+	{
+		"id": 19,
+		"pergunta": "Quais são as resposabilidades do secretário?",
+		"resposta": "É responsável por fazer e manter todos os registros do clube, como: lista de membros, estatutos, regras, registro de nomeações, promoções, rebaixamentos, atas de reunião, enfim, relatórios gerais do clube.",
+		"dificuldade": "medio"
 	}
 ]

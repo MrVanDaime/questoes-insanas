@@ -54,4 +54,9 @@ jQuery( document ).ready( function( $ ) {
 		}
 	});
 
+	// Evento input range
+	$( document ).on( "input", "#qtd_perguntas", function() {
+		btn_gerar.html(  "Gerar " + $( this ).val() );
+	});
+
 });

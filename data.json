@@ -25,14 +25,14 @@
 	},
 	{
 		"id": 4,
-		"pergunta": "Quem é Jassen?",
-		"resposta": "Quem? Hein?",
+		"pergunta": "Qual é o termo usado para uma moto personalizada onde qualquer parte desnecessária nela foi \"Cortada\"?",
+		"resposta": "Chopper",
 		"dificuldade": "dificil"
 	},
 	{
 		"id": 5,
 		"pergunta": "Em um rolê, qual é a formação que menos ofereçe proteção aos membros?",
-		"resposta": "Formação lápis",
+		"resposta": "Formação lápis ou em dupla",
 		"dificuldade": "facil"
 	},
 	{
@@ -43,8 +43,8 @@
 	},
 	{
 		"id": 7,
-		"pergunta": "Alguém do clube na sua frente tem o pneu furado e perdeu o controle da moto, o que você deve fazer?",
-		"resposta": "Permanecer com ele até que o problema seja resolvido.",
+		"pergunta": "Durante um encontro, um membro que estava na sua frente tem o pneu furado e perde o controle da moto, o que você deve fazer?",
+		"resposta": "Permanecer com ele, prestando ajuda até que o problema seja resolvido.",
 		"dificuldade": "facil"
 	},
 	{
@@ -85,7 +85,7 @@
 	},
 	{
 		"id": 14,
-		"pergunta": "O que significa o 18 do Forte?",
+		"pergunta": "O que significa o \"18 do Forte\"?",
 		"resposta": "Foi um movimento político-militar, considerado a primeira revolta do movimento tenentista. Teve início em 5 de julho de 1922 e terminou no dia seguinte no Rio de Janeiro.<br/>O nome da revolta está associado ao número de pessoas envovidas no confronto, as quais resistiram até o fim, a saber: 17 militares e 1 civil.",
 		"dificuldade": "medio"
 	},
@@ -117,6 +117,12 @@
 		"id": 19,
 		"pergunta": "Quais são as resposabilidades do secretário?",
 		"resposta": "É responsável por fazer e manter todos os registros do clube, como: lista de membros, estatutos, regras, registro de nomeações, promoções, rebaixamentos, atas de reunião, enfim, relatórios gerais do clube.",
+		"dificuldade": "medio"
+	},
+	{
+		"id": 20,
+		"pergunta": "O que são as \"cores\" de um moto clube?",
+		"resposta": "São os patches usados nos coletes por membros para identificar a filiação e localização de seu clube.",
 		"dificuldade": "medio"
 	}
 ]

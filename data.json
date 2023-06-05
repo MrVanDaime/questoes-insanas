@@ -50,7 +50,7 @@
 	{
 		"id": 8,
 		"pergunta": "Cite 5 regras durante rolês e eventos do clube",
-		"resposta": "Ferrou kkk",
+		"resposta": "R 1-8 - Justifique caso não puder comparecer em eventos marcados.<br/>R 1-9 - Não use a setinha para andar mais rápido.<br/>R 2-0 - Obrigatoriedade de comparecimento aos Encontros de Calendário Fixo.<br/>R 2-1 - Não realize ultrapassagem no comboio para evitar jogada de lag.<br/>R 2-2 - É proibido empinar a moto em encontros.<br/>R 2-3 - Se for inexperiente em rodar em comboio, procure o Road Captain e o informe, ele irá o orientar.<br/>R 2-4 - Não atrapalhe o comboio, se estiver lagado vá na garupa do amigo de comboio ou para o fim do comboio.<br/>R 2-5 - Abandono do comboio (Sair do rolê) não é permitido. Só para casos de remover estrelas/beber e comer/ajudar alguém do clube.<br/>R 2-6 - Fique sempre por perto se o comboio parar em um local.<br/>R 2-7 - Avise caso fique AFK, quando voltar fique por último até a próxima parada.<br/>R 2-8 - Chegue no P.E no horário preestabelecido devidamente preparado conforme a R 2-9.<br/>R 2-9 - Sempre deixe sua identidade full com pneus reserva, kits reparo, kits médicos, moto abastecida, galão reserva, não estar doente e não estar procurado.<br/>",
 		"dificuldade": "dificil"
 	},
 	{
@@ -98,7 +98,7 @@
 	{
 		"id": 16,
 		"pergunta": "Quais são os direitos de um prospect?",
-		"resposta": "Direito de manter a boca fechada e de não discutir assuntos do clube. É dever do prospect conhecer membros, ou seja, seus irmãos e suas ocupações.<br/>",
+		"resposta": "Direito de manter a boca fechada e de não discutir assuntos do clube. É dever do prospect conhecer membros, ou seja, seus irmãos e suas ocupações.",
 		"dificuldade": "facil"
 	},
 	{
@@ -124,5 +124,17 @@
 		"pergunta": "O que são as \"cores\" de um moto clube?",
 		"resposta": "São os patches usados nos coletes por membros para identificar a filiação e localização de seu clube.",
 		"dificuldade": "medio"
+	},
+	{
+		"id": 21,
+		"pergunta": "O que significa S.I.H.F?",
+		"resposta": "Somos Insanos História Faremos",
+		"dificuldade": "dificil"
+	},
+	{
+		"id": 22,
+		"pergunta": "Quais são os nomes das nossas duas sedes?",
+		"resposta": "Las Barrancas e Las Payasadas",
+		"dificuldade": "facil"
 	}
 ]

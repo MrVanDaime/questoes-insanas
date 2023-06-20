@@ -13,8 +13,8 @@
 	},
 	{
 		"id": 2,
-		"pergunta": "Cite 3 cargos do conselho de um moto clube.",
-		"resposta": "President, Vice-president, Sergeant-at-Arms, Secretary, Treasurer, Road Captain",
+		"pergunta": "Cite 3 cargos do conselho de um moto clube 1%.",
+		"resposta": "Presidente, Vice-presidente, Sargento de armas, Secretário, Tesoureiro, Capitão da estrada",
 		"dificuldade": "facil"
 	},
 	{
@@ -50,7 +50,7 @@
 	{
 		"id": 8,
 		"pergunta": "Cite 5 regras durante rolês e eventos do clube",
-		"resposta": "R 1-8 - Justifique caso não puder comparecer em eventos marcados.<br/>R 1-9 - Não use a setinha para andar mais rápido.<br/>R 2-0 - Obrigatoriedade de comparecimento aos Encontros de Calendário Fixo.<br/>R 2-1 - Não realize ultrapassagem no comboio para evitar jogada de lag.<br/>R 2-2 - É proibido empinar a moto em encontros.<br/>R 2-3 - Se for inexperiente em rodar em comboio, procure o Road Captain e o informe, ele irá o orientar.<br/>R 2-4 - Não atrapalhe o comboio, se estiver lagado vá na garupa do amigo de comboio ou para o fim do comboio.<br/>R 2-5 - Abandono do comboio (Sair do rolê) não é permitido. Só para casos de remover estrelas/beber e comer/ajudar alguém do clube.<br/>R 2-6 - Fique sempre por perto se o comboio parar em um local.<br/>R 2-7 - Avise caso fique AFK, quando voltar fique por último até a próxima parada.<br/>R 2-8 - Chegue no P.E no horário preestabelecido devidamente preparado conforme a R 2-9.<br/>R 2-9 - Sempre deixe sua identidade full com pneus reserva, kits reparo, kits médicos, moto abastecida, galão reserva, não estar doente e não estar procurado.<br/>",
+		"resposta": "- Justifique caso não comparecer em eventos marcados.<br/>- Não use a setinha.<br/>- Obrigatoriedade de comparecimento aos Encontros de Calendário Fixo.<br/>- Não realize ultrapassagem no comboio.<br/>- Proibido empinar a moto.<br/>- Procure o Road Captain se você não tem experiência em rodar em comboio.<br/>- Não atrapalhe o comboio, se estiver lagado, vá na garupa ou para o fim do comboio.<br/>- Abandono do comboio não é permitido. Só para casos de remover estrelas/beber e comer/ajudar alguém do clube.<br/>- Fique sempre por perto se o comboio parar em um local.<br/>- Avise caso fique AFK, quando voltar fique por último até a próxima parada.<br/>- Chegue no P.E no horário preestabelecido devidamente preparado conforme a R 2-9.<br/>- Sempre deixe sua identidade full com pneus reserva, kits reparo, kits médicos, moto abastecida, galão reserva, não estar doente e não estar procurado.<br/>",
 		"dificuldade": "dificil"
 	},
 	{

@@ -13,7 +13,7 @@
 	},
 	{
 		"id": 2,
-		"pergunta": "Cite 3 cargos do conselho de um moto clube 1%.",
+		"pergunta": "Cite 3 cargos do conselho (comando) de um moto clube 1%.",
 		"resposta": "Presidente, Vice-presidente, Sargento de armas, Secretário, Tesoureiro, Capitão da estrada",
 		"dificuldade": "facil"
 	},
@@ -31,7 +31,7 @@
 	},
 	{
 		"id": 5,
-		"pergunta": "Em um rolê, qual é a formação que menos ofereçe proteção aos membros?",
+		"pergunta": "Em um rolê, qual é a formação que menos oferece proteção aos membros?",
 		"resposta": "Formação lápis ou em dupla",
 		"dificuldade": "facil"
 	},
@@ -73,7 +73,7 @@
 	},
 	{
 		"id": 12,
-		"pergunta": "Cite 5 membros do conselho do clube",
+		"pergunta": "Cite 5 membros do comando e o nome do cargo que ocupam",
 		"resposta": "@Amigles",
 		"dificuldade": "medio"
 	},

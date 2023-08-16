@@ -56,7 +56,7 @@
 	{
 		"id": 9,
 		"pergunta": "Qual é o significado da sigla AMA?",
-		"resposta": "American Motorcyclist Association",
+		"resposta": "American Motorcyclist Association / Associação Americana de Motociclistas",
 		"dificuldade": "medio"
 	},
 	{
@@ -133,7 +133,7 @@
 	},
 	{
 		"id": 22,
-		"pergunta": "Quais são os nomes das nossas duas sedes?",
+		"pergunta": "Quais são os nomes das nossas sedes?",
 		"resposta": "Las Barrancas e Las Payasadas",
 		"dificuldade": "facil"
 	}
